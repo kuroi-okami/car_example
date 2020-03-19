@@ -1,8 +1,7 @@
-#include "car/car.hpp"
+//#include "car/car.hpp"
+import pack_car;
 
 int main()
 {
-    car instance;
-
-    instance.drive();
+    do_car();
 }
